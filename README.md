@@ -79,42 +79,28 @@ The complete preparation workflow is available in:
 ## 📈 Key Visualizations
 
 ### 1. Sankey Diagram
+Visualizes the flow from **Education Level → Employment Status → Income Bracket**.
 
-An interactive Sankey diagram visualizes the flow:
-
-**Education Level → Employment Status → Income Bracket**
-
-This provides a clear view of how educational attainment and employment outcomes relate to income categories.
+![Sankey Diagram](visualizations/sankey-education-employment-income.png)
 
 ### 2. Parallel Coordinates
+Compares **education, income, and wealth** across regions and highlights multidimensional economic patterns.
 
-The Parallel Coordinates visualization compares:
-
-- Education
-- Income
-- Wealth
-- Region
-
-It enables multidimensional comparison of economic outcomes across the dataset.
+![Parallel Coordinates](visualizations/parallel-coordinates-income-wealth.png)
 
 ### 3. Regional Gini Coefficient
+Compares **income inequality across the five regions** using the Gini coefficient.
 
-Regional Gini coefficients are used to compare the level of **income inequality across the five regions**.
+![Regional Gini Coefficient](visualizations/regional-gini-coefficient.png)
 
-### 4. Income & Wealth Analysis
+### 4. Interactive Regional Analysis
+Interactive filtering enables deeper exploration of regional economic disparities.
 
-Additional visualizations explore the distribution of income and wealth across:
+🔗 **[Explore the Full Interactive Analysis on Observable](https://observablehq.com/d/df002d87efbb0d65)**
 
-- Education levels
-- Employment categories
-- Regions
-- Income brackets
 
-### 5. Interactive Regional Analysis
 
-Interactive filtering allows users to explore economic patterns and disparities at the regional level.
 
----
 
 ## 🔍 Analytical Focus
 
