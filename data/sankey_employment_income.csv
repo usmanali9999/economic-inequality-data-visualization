@@ -1,0 +1,12 @@
+Employment Status,Income_Bracket,Count
+Employed,Low Income,106
+Employed,Lower-Middle,199
+Employed,Upper-Middle,199
+Employed,High Income,194
+Self-Employed,Low Income,20
+Self-Employed,Lower-Middle,40
+Self-Employed,Upper-Middle,51
+Self-Employed,High Income,55
+Unemployed,Low Income,124
+Unemployed,Lower-Middle,11
+Unemployed,High Income,1
